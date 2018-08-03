@@ -215,7 +215,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  better_errors (~> 2.4)
+  better_errors
   bulma-rails (~> 0.7.1)
   byebug
   capybara (~> 2.13)
