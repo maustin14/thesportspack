@@ -41,6 +41,9 @@ gem 'bulma-rails', '~> 0.7.1'
 #Simple Form
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
 
+#Admin Options
+gem 'devise'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
